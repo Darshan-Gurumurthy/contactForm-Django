@@ -132,7 +132,7 @@ STATICFILES_DIRS = [
 #For testing with gmail services you need to give acces for the below for other service providers you can always google it
 #https://myaccount.google.com/intro/security
 #https://accounts.google.com/b/0/DisplayUnlockCaptcha
-#Email setteings
+#Email settings
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = ''
